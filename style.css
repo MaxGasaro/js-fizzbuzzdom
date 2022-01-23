@@ -36,3 +36,33 @@ html {
     height: 90px;
     background-color: #118ab2;
 }
+
+.box-fizz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    width: 90px;
+    height: 90px;
+    background-color: #74b211;
+}
+
+.box-buzz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    width: 90px;
+    height: 90px;
+    background-color: #96af0a;
+}
+
+.box-fizz-buzz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    width: 90px;
+    height: 90px;
+    background-color: #b21141;
+}
